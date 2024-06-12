@@ -61,3 +61,5 @@ const products = [
         img: Google_Pixel_6_Img
     }
 ];
+
+export default products;
