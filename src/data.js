@@ -10,7 +10,7 @@ const products = [
         id : "motorola-g34-5g",
         name : "Motorola G34 5G",
         rating : "4.5",
-        mrp : "₹11,999",
+        mrp : "₹14,999",
         price : "₹11,999",
         description : " Look no further than the amazing Moto G34 5G smartphone, which is built to improve performance and add sophistication to your life. Powered by the LPDDR4X RAM and the Snapdragon 695 5G octa-core CPU, the Moto G34 5G offers the performance needed to fully utilise 5G networks. The Moto G34 5G sticks out with its slim, elegant, and light design. There's a vegan leather special edition for an added bit of refinement. Take incredibly clear and vibrant pictures with the sophisticated 50 MP Quad Pixel camera with Image Auto Enhance, the Quad pixel camera system helps you take stunning pictures even in dim lighting. Plus it comes with advanced 16 MP Selfie Camera.",
         img : Motorola_G34_5G_Img
