@@ -1,9 +1,9 @@
-import Motorola_G34_5G_Img from './imgs/Motorola-G34-5G.jpeg'
-import Samsung_Galaxy_S21_Img from './imgs/Samsung_Galaxy_S21_Img.jpeg'
-import iPhone_12_Img from './imgs/iPhone_12_Img.jpeg'
+import Motorola_G34_5G_Img from './imgs/Motorola-G34-5G.png'
+import Samsung_Galaxy_S21_Img from './imgs/Samsung_Galaxy_S21_Img.png'
+import iPhone_12_Img from './imgs/iPhone_12_Img.png'
 import OnePlus_9_Pro_Img from './imgs/OnePlus_9_Pro_Img.png'
-import Xiaomi_Mi_11_Img from './imgs/Xiaomi_Mi_11_Img.jpeg'
-import Google_Pixel_6_Img from './imgs/Google_Pixel_6_Img.jpeg'
+import Xiaomi_Mi_11_Img from './imgs/Xiaomi_Mi_11_Img.png'
+import Google_Pixel_6_Img from './imgs/Google_Pixel_6_Img.png'
 
 const products = [
     {
