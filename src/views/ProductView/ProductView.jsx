@@ -17,9 +17,16 @@ function ProductView() {
     } = selectProduct
 
     return (
-    <div>
-        <h1> {name} </h1>
-    </div>
+   <>
+        <div>
+            <div>
+                <img src={img} alt="img" />
+            </div>
+            <div>
+                <h1>{name}</h1>
+            </div>
+        </div>
+   </>
   )
 }
 
